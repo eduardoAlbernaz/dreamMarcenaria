@@ -19,7 +19,7 @@ const FormNew = () => {
             <Field.Text label="Nome" name="name" type="text" register={register} />
             <Field.Text label="Email" name="email" type="email" register={register} />
 
-            <Button>Enviar</Button>
+            <Button>Enviarr</Button>
         </Form>
     )
 };
